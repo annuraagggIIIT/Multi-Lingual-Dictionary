@@ -1,7 +1,5 @@
 # Multi-Lingual-Dictionary
 
-# Multi-Lingual Dictionary
-
 ![Dictionary](dictionary.jpg)
 
 ## Overview
